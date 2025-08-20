@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @olayemi244
-- 👀 I’m interested in Arts, Songs and Lifestyle
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics
+- 👋 Hi, I am Idris Olayoonu
+- 👀 I am interested in Technology, Arts and Lifestyle
+- 🌱 I am currently working as technical support specialist and in training to transition into cybersecurity
+- 💞️ I am looking to collaborate on cybersecurity, data analytics gigs.
 - 📫 How to reach me on twitter @Olayoonuidrisoo
 
 <!---
